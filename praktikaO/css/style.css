@@ -1,0 +1,5 @@
+body { background: #f8f9fa; min-height: 100vh; }
+.logo-img { width: 60px; height: auto; }
+.card-custom { transition: all 0.2s; border: none; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+.card-custom:hover { transform: translateY(-2px); box-shadow: 0 4px 8px rgba(0,0,0,0.15); }
+.no-zayavki { max-width: 600px; margin: 40px auto; text-align: center; padding: 40px; }
